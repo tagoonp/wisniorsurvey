@@ -1,0 +1,14 @@
+config/config_database.php
+config/config.js
+.htaccess
+
+upload/original/*.png
+upload/original/*.jpg
+upload/resize/*.png
+upload/resize/*.jpg
+upload/thumbnail/*.png
+upload/thumbnail/*.jpg
+
+upload/original/*.doc
+upload/original/*.docx
+upload/original/*.pdf
